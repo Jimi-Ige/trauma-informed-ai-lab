@@ -1,35 +1,31 @@
-# Open Nest
-🚀 **Open-Source AI for Trauma-Informed Care & Compliance**
+# Trauma Informed AI Lab
 
-Project Open Nest is an **ethical AI initiative** focused on building trauma-informed AI models for social impact, compliance, and equitable decision-making.
+Open-source research infrastructure for trauma-informed AI in health and social services.
 
-## 🌟 Get Involved
-We welcome **technical and non-technical contributors**. 
+TIAIL is the research program of [Nest and Rise, Inc.](https://tiail.org), a 501(c)(3) nonprofit based in Baltimore, MD. This repository holds the lab's public artifacts as they are released: governance frameworks, evaluation rubrics, model benchmarks, and reference implementations for use by nonprofits, public agencies, and researchers.
 
-- 🛠 **Developers & Data Scientists**: Contribute to our AI models, data pipelines, and compliance tooling.
-- 📜 **AI Ethicists & Social Workers**: Help define ethical AI principles and fairness evaluations.
-- 🔐 **Privacy & Security Experts**: Ensure the model aligns with HIPAA, GDPR, and AI safety standards.
-- 🏛 **Donors & Sponsors**: Fund an AI-driven social impact initiative.
+The work is public by design.
 
-📢 Join us on **Discord** → [[Invite Link Here]](https://discord.com/invite/9vfjCa8Usj)
+## What lives here today
 
----
+- [Ethical AI principles](EthicalAIPrinciples.md). The foundational commitments guiding TIAIL's research and engineering decisions.
+- [Contributing guide](CONTRIBUTING.md). How to participate as a developer, ethicist, clinician, privacy practitioner, or contributor with lived experience of the systems we study.
 
-## 📌 How to Contribute
-1. **Fork this repository** (Click `Fork` on the top-right).
-2. **Clone the repo** to your local machine:
-3. **Make your changes and submit a pull request**.
+## What we are working toward
 
-Check our **[Contribution Guide](CONTRIBUTING.md)** for details.
+- Institutional review protocols and deployment criteria for AI in regulated care settings.
+- Evaluation rubrics calibrated to clinical and human services settings, including a retraumatization risk scoring protocol.
+- Model benchmarks for trauma-informed performance on intake, triage, and case management tasks.
+- Open-source toolkits and documentation frameworks for Medicaid, HUD, and grant compliance.
 
----
+## Get involved
 
-## 📚 Documentation & Roadmap
-- 📖 **[Project Roadmap](docs/roadmap.md)**
-- 🔍 **[Technical Docs](docs/architecture.md)**
-- 📜 **[Ethical AI Principles](EthicalAIPrinciples.md)**
+- Site: https://tiail.org
+- Volunteer: https://forms.cloud.microsoft/r/xCedQ68MdC
+- Discord: https://discord.com/invite/9vfjCa8Usj
+- Newsletter: https://substack.com/@nestandrise
+- Donate: https://givebutter.com/InnovationFund
 
----
+## License
 
-## 🛡 License
-This project is licensed under the **MIT License**.
+MIT. See [LICENSE](LICENSE).
